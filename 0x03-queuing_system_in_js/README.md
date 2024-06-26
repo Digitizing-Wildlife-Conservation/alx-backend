@@ -1,0 +1,6 @@
+
+                                                0x03. Queuing System in JS Back-end JavaScript ES6 Redis NodeJS ExpressJS Kue Cohort
+
+This project involves building a queuing system in JavaScript using Redis, Node.js, Express.js, and Kue. The tasks include installing and running a Redis server, performing basic and advanced Redis operations, and creating and processing jobs using Kue. You will learn to handle asynchronous operations, build an Express app interacting with Redis, and manage a Redis-based queue system. The project requires Ubuntu 18.04, Node 12.x, and Redis 5.0.7. Essential files include package.json and .babelrc, and you must use the .js extension for all code files. The Queuing System in JavaScript project aims to familiarize learners with Redis server operations and Node.js integration for basic Redis functionalities. Participants will learn to set up and run a Redis server locally, perform simple Redis operations using Node.js, manage hash values asynchronously, and implement Kue as a queue system. Additionally, the project guides users in building basic Express applications that interact with Redis servers and integrate queuing mechanisms, enhancing their understanding of backend development with these technologies.
+
+                                                                               -Happy Coding-
